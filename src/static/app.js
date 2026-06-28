@@ -622,6 +622,8 @@ document.addEventListener("DOMContentLoaded", () => {
           copyBtn.classList.remove("copied");
           copyBtn.title = "Copy link";
         }, 2000);
+      }).catch(() => {
+        showMessage("Could not copy to clipboard. Please try again.", "error");
       });
     });
 
