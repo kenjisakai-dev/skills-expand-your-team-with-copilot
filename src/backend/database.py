@@ -121,14 +121,14 @@ initial_activities = {
         "participants": ["james@mergington.edu", "benjamin@mergington.edu"]
     },
     "Manga Maniacs": {
-        "description": "Explore as histórias fantásticas dos personagens mais interessantes dos mangás japoneses (histórias em quadrinhos).",
-        "schedule": "Terças-feiras, 19:00 - 20:00",
+        "description": "Entre em mundos épicos de amizade, coragem e reviravoltas, explorando os mangás japoneses mais cativantes e seus personagens inesquecíveis.",
+        "schedule": "Terças-feiras, 17:00 - 18:00",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:00"
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     },
     "Debate Team": {
